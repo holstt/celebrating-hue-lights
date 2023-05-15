@@ -1,0 +1,24 @@
+[tool.poetry]
+name = "celebrating-hue-lights"
+version = "0.1.0"
+description = ""
+authors = ["holstt <45661813+holstt@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+requests = "^2.30.0"
+phue = "^1.1"
+pyyaml = "^6.0"
+chromedriver = "^2.24.1"
+beautifulsoup4 = "^4.12.2"
+selenium = "^4.9.1"
+webcolors = "^1.13"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.pyright]
+typeCheckingMode = "basic"

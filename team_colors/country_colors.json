@@ -1,0 +1,936 @@
+{
+    "Afghanistan": [
+        "black",
+        "red",
+        "green"
+    ],
+    "Albania": [
+        "red"
+    ],
+    "Algeria": [
+        "green",
+        "white"
+    ],
+    "Andorra": [
+        "blue",
+        "yellow",
+        "red"
+    ],
+    "Angola": [
+        "red",
+        "black",
+        "yellow"
+    ],
+    "Antigua and Barbuda": [
+        "red",
+        "blue",
+        "white"
+    ],
+    "Argentina": [
+        "light blue",
+        "white",
+        "yellow"
+    ],
+    "Armenia": [
+        "red",
+        "blue",
+        "orange"
+    ],
+    "Australia": [
+        "blue",
+        "white",
+        "red"
+    ],
+    "Austria": [
+        "red",
+        "white"
+    ],
+    "Azerbaijan": [
+        "blue",
+        "red",
+        "green"
+    ],
+    "Bahamas": [
+        "blue",
+        "gold"
+    ],
+    "Bahrain": [
+        "red",
+        "white"
+    ],
+    "Bangladesh": [
+        "green",
+        "red"
+    ],
+    "Barbados": [
+        "blue",
+        "yellow"
+    ],
+    "Belarus": [
+        "red",
+        "green"
+    ],
+    "Belgium": [
+        "black",
+        "gold",
+        "red"
+    ],
+    "Belize": [
+        "red",
+        "blue",
+        "white"
+    ],
+    "Benin": [
+        "green",
+        "yellow",
+        "red"
+    ],
+    "Bhutan": [
+        "yellow",
+        "orange"
+    ],
+    "Bolivia": [
+        "red",
+        "yellow",
+        "green"
+    ],
+    "Bosnia and Herzegovina": [
+        "blue",
+        "yellow"
+    ],
+    "Botswana": [
+        "blue",
+        "black",
+        "white"
+    ],
+    "Brazil": [
+        "green",
+        "yellow",
+        "blue"
+    ],
+    "Brunei": [
+        "yellow",
+        "white",
+        "black"
+    ],
+    "Bulgaria": [
+        "white",
+        "green",
+        "red"
+    ],
+    "Burkina Faso": [
+        "red",
+        "green"
+    ],
+    "Burundi": [
+        "red",
+        "white"
+    ],
+    "Cabo Verde": [
+        "blue",
+        "white",
+        "red"
+    ],
+    "Cambodia": [
+        "blue",
+        "red"
+    ],
+    "Cameroon": [
+        "green",
+        "red",
+        "yellow"
+    ],
+    "Canada": [
+        "red",
+        "white"
+    ],
+    "Central African Republic": [
+        "blue",
+        "white",
+        "green",
+        "yellow",
+        "red"
+    ],
+    "Chad": [
+        "blue",
+        "yellow",
+        "red"
+    ],
+    "Chile": [
+        "red",
+        "white",
+        "blue"
+    ],
+    "China": [
+        "red",
+        "yellow"
+    ],
+    "Colombia": [
+        "yellow",
+        "blue",
+        "red"
+    ],
+    "Comoros": [
+        "green",
+        "yellow",
+        "white"
+    ],
+    "Congo": [
+        "blue",
+        "yellow",
+        "red"
+    ],
+    "Costa Rica": [
+        "blue",
+        "white",
+        "red"
+    ],
+    "Croatia": [
+        "red",
+        "white",
+        "blue"
+    ],
+    "Cuba": [
+        "blue",
+        "white",
+        "red"
+    ],
+    "Cyprus": [
+        "white"
+    ],
+    "Czech Republic": [
+        "white",
+        "red"
+    ],
+    "Denmark": [
+        "red",
+        "white"
+    ],
+    "Djibouti": [
+        "light blue",
+        "green",
+        "white",
+        "red"
+    ],
+    "Dominica": [
+        "green",
+        "yellow",
+        "black",
+        "white"
+    ],
+    "Dominican Republic": [
+        "red",
+        "white",
+        "blue"
+    ],
+    "East Timor": [
+        "red",
+        "black",
+        "yellow"
+    ],
+    "Ecuador": [
+        "yellow",
+        "blue",
+        "red"
+    ],
+    "Egypt": [
+        "red",
+        "white",
+        "black"
+    ],
+    "El Salvador": [
+        "blue",
+        "white"
+    ],
+    "Equatorial Guinea": [
+        "green",
+        "white",
+        "red"
+    ],
+    "Eritrea": [
+        "red",
+        "green",
+        "blue"
+    ],
+    "Estonia": [
+        "blue",
+        "black",
+        "white"
+    ],
+    "Eswatini": [
+        "blue",
+        "yellow",
+        "red",
+        "black",
+        "white"
+    ],
+    "Ethiopia": [
+        "green",
+        "yellow",
+        "red",
+        "blue"
+    ],
+    "Fiji": [
+        "light blue",
+        "yellow"
+    ],
+    "Finland": [
+        "blue",
+        "white"
+    ],
+    "France": [
+        "blue",
+        "white",
+        "red"
+    ],
+    "Gabon": [
+        "green",
+        "yellow",
+        "blue"
+    ],
+    "Gambia": [
+        "red",
+        "blue",
+        "green"
+    ],
+    "Georgia": [
+        "white",
+        "red"
+    ],
+    "Germany": [
+        "black",
+        "red",
+        "gold"
+    ],
+    "Ghana": [
+        "red",
+        "yellow",
+        "green",
+        "black"
+    ],
+    "Greece": [
+        "blue",
+        "white"
+    ],
+    "Grenada": [
+        "red",
+        "yellow",
+        "green"
+    ],
+    "Guatemala": [
+        "blue",
+        "white",
+        "blue"
+    ],
+    "Guinea": [
+        "red",
+        "yellow",
+        "green"
+    ],
+    "Guinea-Bissau": [
+        "red",
+        "yellow",
+        "green",
+        "black"
+    ],
+    "Guyana": [
+        "green",
+        "yellow",
+        "black",
+        "white"
+    ],
+    "Haiti": [
+        "blue",
+        "red"
+    ],
+    "Honduras": [
+        "blue",
+        "white"
+    ],
+    "Hungary": [
+        "red",
+        "white",
+        "green"
+    ],
+    "Iceland": [
+        "blue",
+        "white",
+        "red"
+    ],
+    "India": [
+        "saffron",
+        "white",
+        "green"
+    ],
+    "Indonesia": [
+        "red",
+        "white"
+    ],
+    "Iran": [
+        "green",
+        "white",
+        "red"
+    ],
+    "Iraq": [
+        "red",
+        "white",
+        "black"
+    ],
+    "Ireland": [
+        "green",
+        "white",
+        "orange"
+    ],
+    "Israel": [
+        "blue",
+        "white"
+    ],
+    "Italy": [
+        "green",
+        "white",
+        "red"
+    ],
+    "Jamaica": [
+        "gold",
+        "black",
+        "green"
+    ],
+    "Japan": [
+        "white",
+        "red"
+    ],
+    "Jordan": [
+        "black",
+        "white",
+        "green"
+    ],
+    "Kazakhstan": [
+        "blue",
+        "gold"
+    ],
+    "Kenya": [
+        "black",
+        "red",
+        "green"
+    ],
+    "Kiribati": [
+        "red",
+        "blue",
+        "white"
+    ],
+    "Korea, North": [
+        "red",
+        "white",
+        "blue"
+    ],
+    "Korea, South": [
+        "white",
+        "red",
+        "blue"
+    ],
+    "Kosovo": [
+        "blue",
+        "yellow"
+    ],
+    "Kuwait": [
+        "green",
+        "white",
+        "red",
+        "black"
+    ],
+    "Kyrgyzstan": [
+        "red",
+        "yellow",
+        "blue"
+    ],
+    "Laos": [
+        "red",
+        "blue"
+    ],
+    "Latvia": [
+        "red",
+        "white"
+    ],
+    "Lebanon": [
+        "red",
+        "white"
+    ],
+    "Lesotho": [
+        "blue",
+        "white",
+        "green"
+    ],
+    "Liberia": [
+        "red",
+        "white",
+        "blue"
+    ],
+    "Libya": [
+        "red",
+        "black",
+        "green",
+        "white"
+    ],
+    "Liechtenstein": [
+        "blue",
+        "red"
+    ],
+    "Lithuania": [
+        "yellow",
+        "green",
+        "red"
+    ],
+    "Luxembourg": [
+        "red",
+        "white",
+        "light blue"
+    ],
+    "Madagascar": [
+        "white",
+        "red",
+        "green"
+    ],
+    "Malawi": [
+        "black",
+        "red",
+        "green"
+    ],
+    "Malaysia": [
+        "red",
+        "white",
+        "blue",
+        "yellow"
+    ],
+    "Maldives": [
+        "red",
+        "green"
+    ],
+    "Mali": [
+        "green",
+        "gold",
+        "red"
+    ],
+    "Malta": [
+        "white",
+        "red"
+    ],
+    "Marshall Islands": [
+        "blue",
+        "white",
+        "orange"
+    ],
+    "Mauritania": [
+        "green",
+        "yellow",
+        "red"
+    ],
+    "Mauritius": [
+        "red",
+        "blue",
+        "yellow",
+        "green"
+    ],
+    "Mexico": [
+        "green",
+        "white",
+        "red"
+    ],
+    "Micronesia": [
+        "blue",
+        "white"
+    ],
+    "Moldova": [
+        "blue",
+        "yellow",
+        "red"
+    ],
+    "Monaco": [
+        "red",
+        "white"
+    ],
+    "Mongolia": [
+        "red",
+        "blue"
+    ],
+    "Montenegro": [
+        "red",
+        "yellow"
+    ],
+    "Morocco": [
+        "red",
+        "green"
+    ],
+    "Mozambique": [
+        "green",
+        "black",
+        "yellow",
+        "red"
+    ],
+    "Myanmar": [
+        "red",
+        "white"
+    ],
+    "Namibia": [
+        "blue",
+        "red",
+        "green",
+        "white"
+    ],
+    "Nauru": [
+        "blue",
+        "yellow"
+    ],
+    "Nepal": [
+        "crimson",
+        "blue"
+    ],
+    "Netherlands": [
+        "red",
+        "white",
+        "blue"
+    ],
+    "New Zealand": [
+        "red",
+        "white",
+        "blue"
+    ],
+    "Nicaragua": [
+        "blue",
+        "white"
+    ],
+    "Niger": [
+        "orange",
+        "white",
+        "green"
+    ],
+    "Nigeria": [
+        "green",
+        "white",
+        "green"
+    ],
+    "North Macedonia": [
+        "red",
+        "yellow"
+    ],
+    "Norway": [
+        "red",
+        "white",
+        "blue"
+    ],
+    "Oman": [
+        "red",
+        "white",
+        "green"
+    ],
+    "Pakistan": [
+        "green",
+        "white"
+    ],
+    "Palau": [
+        "blue",
+        "yellow"
+    ],
+    "Panama": [
+        "red",
+        "white",
+        "blue"
+    ],
+    "Papua New Guinea": [
+        "black",
+        "red",
+        "yellow"
+    ],
+    "Paraguay": [
+        "red",
+        "white",
+        "blue"
+    ],
+    "Peru": [
+        "red",
+        "white"
+    ],
+    "Philippines": [
+        "blue",
+        "red",
+        "yellow"
+    ],
+    "Poland": [
+        "white",
+        "red"
+    ],
+    "Portugal": [
+        "green",
+        "red"
+    ],
+    "Qatar": [
+        "white",
+        "maroon"
+    ],
+    "Romania": [
+        "blue",
+        "yellow",
+        "red"
+    ],
+    "Russia": [
+        "white",
+        "blue",
+        "red"
+    ],
+    "Rwanda": [
+        "blue",
+        "yellow",
+        "green"
+    ],
+    "Saint Kitts and Nevis": [
+        "green",
+        "yellow",
+        "black",
+        "white"
+    ],
+    "Saint Lucia": [
+        "blue",
+        "yellow",
+        "black",
+        "white"
+    ],
+    "Saint Vincent and the Grenadines": [
+        "blue",
+        "yellow",
+        "green"
+    ],
+    "Samoa": [
+        "red",
+        "blue"
+    ],
+    "San Marino": [
+        "white",
+        "light blue"
+    ],
+    "Sao Tome and Principe": [
+        "green",
+        "yellow",
+        "green"
+    ],
+    "Saudi Arabia": [
+        "green",
+        "white"
+    ],
+    "Senegal": [
+        "green",
+        "yellow",
+        "red"
+    ],
+    "Serbia": [
+        "red",
+        "blue",
+        "white"
+    ],
+    "Seychelles": [
+        "blue",
+        "yellow",
+        "red",
+        "white",
+        "green"
+    ],
+    "Sierra Leone": [
+        "green",
+        "white",
+        "blue"
+    ],
+    "Singapore": [
+        "red",
+        "white"
+    ],
+    "Slovakia": [
+        "white",
+        "blue",
+        "red"
+    ],
+    "Slovenia": [
+        "white",
+        "blue",
+        "red"
+    ],
+    "Solomon Islands": [
+        "blue",
+        "yellow",
+        "green"
+    ],
+    "Somalia": [
+        "blue",
+        "white"
+    ],
+    "South Africa": [
+        "black",
+        "gold",
+        "green",
+        "blue",
+        "white",
+        "red"
+    ],
+    "South Sudan": [
+        "black",
+        "red",
+        "green",
+        "blue",
+        "gold"
+    ],
+    "Spain": [
+        "red",
+        "gold"
+    ],
+    "Sri Lanka": [
+        "yellow",
+        "green",
+        "red"
+    ],
+    "Sudan": [
+        "red",
+        "white",
+        "black",
+        "green"
+    ],
+    "Suriname": [
+        "green",
+        "white",
+        "red"
+    ],
+    "Sweden": [
+        "blue",
+        "yellow"
+    ],
+    "Switzerland": [
+        "red",
+        "white"
+    ],
+    "Syria": [
+        "red",
+        "white",
+        "black"
+    ],
+    "Taiwan": [
+        "red",
+        "blue",
+        "white"
+    ],
+    "Tajikistan": [
+        "red",
+        "white",
+        "green"
+    ],
+    "Tanzania": [
+        "green",
+        "yellow",
+        "black",
+        "blue"
+    ],
+    "Thailand": [
+        "red",
+        "white",
+        "blue"
+    ],
+    "Togo": [
+        "green",
+        "yellow",
+        "red"
+    ],
+    "Tonga": [
+        "red",
+        "white"
+    ],
+    "Trinidad and Tobago": [
+        "red",
+        "white",
+        "black"
+    ],
+    "Tunisia": [
+        "red",
+        "white"
+    ],
+    "Turkey": [
+        "red",
+        "white"
+    ],
+    "Turkmenistan": [
+        "green",
+        "white",
+        "red"
+    ],
+    "Tuvalu": [
+        "light blue",
+        "yellow",
+        "white",
+        "red"
+    ],
+    "Uganda": [
+        "black",
+        "yellow",
+        "red"
+    ],
+    "Ukraine": [
+        "blue",
+        "yellow"
+    ],
+    "United Arab Emirates": [
+        "green",
+        "white",
+        "black",
+        "red"
+    ],
+    "United Kingdom": [
+        "red",
+        "white",
+        "blue"
+    ],
+    "United States of America": [
+        "red",
+        "white",
+        "blue"
+    ],
+    "Uruguay": [
+        "white",
+        "gold",
+        "blue"
+    ],
+    "Uzbekistan": [
+        "blue",
+        "white",
+        "green"
+    ],
+    "Vanuatu": [
+        "red",
+        "green",
+        "black",
+        "yellow"
+    ],
+    "Vatican City": [
+        "yellow",
+        "white"
+    ],
+    "Venezuela": [
+        "yellow",
+        "blue",
+        "red"
+    ],
+    "Vietnam": [
+        "red",
+        "yellow"
+    ],
+    "Yemen": [
+        "red",
+        "white",
+        "black"
+    ],
+    "Zambia": [
+        "green",
+        "red",
+        "black",
+        "orange"
+    ],
+    "Zimbabwe": [
+        "green",
+        "yellow",
+        "red",
+        "black"
+    ]
+}
