@@ -8,16 +8,16 @@ import yaml
 from src.hue import MyBridge
 
 # Args:
-# - app_name: The name of the application that will be registered on the bridge.
-# - bridge_ip: The IP address of the Hue bridge. This can be found in your Hue app.
+# - name: The name of the application that will be registered on the bridge.
+# - ip: The IP address of the Hue bridge. This can be found in your Hue app.
 
 # Example usage:
-# python create_user.py -a "My Hue App" -b 192.168.x.x
+# python app_setup.py -a "My Hue App" -b 192.168.x.x
 
-# Steps:
+# The script will do the following:
 # - User Registration: The script creates a new user that is authorized to access the Hue bridge.
-# - Group Selection: You will be prompted to select a group (room) where the lights are located.
-# - Configuration File: The script saves all necessary details (including the new user and group information) in a configuration file. This file will be used by the main application.
+# - Group Selection: You will be prompted to select the light group (room) you want the program to control.
+# - Configuration File Generation: The script saves all necessary details (including the new user and light group information) in a configuration file. This file will be used by the main application.
 
 
 args = argparse.ArgumentParser(description="Create a new user on the hue bridge")
@@ -92,7 +92,7 @@ else:
     )
     raise Exception(f"Error from bridge response: {error_message}")
 
-# Let the user choose the group to use
+# Let the user choose the light group to use
 bridge = MyBridge(ip=args.ip, username=username)
 
 groups: list[phue.Group] = bridge.groups  # type: ignore
